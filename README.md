@@ -1,14 +1,14 @@
 
 
-<h1 align="center">Hi 👋, I'm Ritvik</h1>
+<h1 align="center">Hello there 👋, I'm Ritvik</h1>
 <h3 align="center">Pursuing Ms in Data Science @ Rochester Institute of Technology, New York</h3>
 
 <p align="left"> <a href="https://twitter.com/ritvikteja" target="blank"><img src="https://img.shields.io/twitter/follow/ritvikteja?logo=twitter&style=for-the-badge" alt="ritvikteja" /></a> </p>
 
 - 🌱 My current courses are:
--   **Foundations of Data Science & Analytics**
--   **software Construction**
--   **Applied Statistics**
+--   **Foundations of Data Science & Analytics**
+--  **software Construction**
+--   **Applied Statistics**
 
 - Got some cool ideas for a project? Hit me up! 
 
