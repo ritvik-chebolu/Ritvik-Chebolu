@@ -7,7 +7,7 @@
 
 - 🌱 My current courses are:
 --   **Foundations of Data Science & Analytics**
---  **software Construction**
+--  **Software Construction**
 --   **Applied Statistics**
 
 - Got some cool ideas for a project? Hit me up! 
