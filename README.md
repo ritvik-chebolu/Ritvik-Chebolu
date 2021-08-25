@@ -5,10 +5,10 @@
 
 <p align="left"> <a href="https://twitter.com/ritvikteja" target="blank"><img src="https://img.shields.io/twitter/follow/ritvikteja?logo=twitter&style=for-the-badge" alt="ritvikteja" /></a> </p>
 
-- 🌱 My current courses are:
---   **Foundations of Data Science & Analytics**
---  **Software Construction**
---   **Applied Statistics**
+- 🌱 A budding data scientist who's currently learning:
+a)   **Foundations of Data Science & Analytics**
+b)  **Software Construction**
+c)   **Applied Statistics**
 
 - Got some cool ideas for a project? Hit me up! 
 
