@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ritvikteja" target="blank"><img src="https://img.shields.io/twitter/follow/ritvikteja?logo=twitter&style=for-the-badge" alt="ritvikteja" /></a> </p>
 
-- 🌱 A budding data scientist who's currently learning:
+- 🌱 A budding data scientist who's currently learning: \n
 a)   **Foundations of Data Science & Analytics**
 b)  **Software Construction**
 c)   **Applied Statistics**
