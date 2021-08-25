@@ -5,7 +5,12 @@
 
 <p align="left"> <a href="https://twitter.com/ritvikteja" target="blank"><img src="https://img.shields.io/twitter/follow/ritvikteja?logo=twitter&style=for-the-badge" alt="ritvikteja" /></a> </p>
 
-- 🌱 I’m currently learning **Deep Learning and Neural Networks and also dealing with Tensorflow**
+- 🌱 My current courses are:
+-   **Foundations of Data Science & Analytics**
+-   **software Construction**
+-   **Applied Statistics**
+
+- Got some cool ideas for a project? Hit me up! 
 
 - 📫 How to reach me **ritvik.teja@gmail.com**
 
