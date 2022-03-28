@@ -1,18 +1,20 @@
 
 
-<h1 align="center">Hello there 👋, I'm Ritvik</h1>
-<h3 align="center">Pursuing Ms in Data Science @ Rochester Institute of Technology, New York</h3>
+<h1 align="center">Hey there 👋, I'm Ritvik</h1>
+<h3 align="center">Pursuing M.Sc. in Data Science @ Rochester Institute of Technology, New York</h3>
 
 <p align="left"> <a href="https://twitter.com/ritvikteja" target="blank"><img src="https://img.shields.io/twitter/follow/ritvikteja?logo=twitter&style=for-the-badge" alt="ritvikteja" /></a> </p>
 
-- 🌱 A budding data scientist who's currently learning: 
---   **Foundations of Data Science & Analytics**
---   **Software Construction**
---   **Applied Statistics**
+- 🌱 A budding data scientist who's currently learning:  
+    **Visual Analytics**  
+    **Database Design Implementation**  
+    **Software Construction**  
+
+- Successfully completed #66days of data challenge (initiated by Ken Jee)
 
 - Got some cool ideas for a project or a collab? Hit me up! 
 
-- 📫 How to reach me **ritvik.teja@gmail.com**
+- 📫 Reach out to me at **ritvik.teja@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
