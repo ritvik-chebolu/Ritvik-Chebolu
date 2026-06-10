@@ -10,7 +10,7 @@
 
 - M.Sc. in Data Science @ Rochester Institute of Technology
 
-- A data geek who completed 2 rounds of #66days of data challenge (initiated by Ken Jee)
+- 3.5+ years in the Tech & Data space
 
 - Got some cool ideas for a project or a collab? Hit me up! 
 
