@@ -10,7 +10,7 @@
 
 - M.Sc. in Data Science @ Rochester Institute of Technology
 
-- 3.5+ years in the Tech & Data space
+- 3.5+ years with Data in Tech
 
 - Got some cool ideas for a project or a collab? Hit me up! 
 
