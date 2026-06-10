@@ -1,12 +1,14 @@
 
 
 <h1 align="center">Hey there 👋, I'm Ritvik</h1>
-<h3 align="center">Analytics Engineer Co-op @ Wayfair</h3>
-<h3 align="center">M.Sc. in Data Science @ Rochester Institute of Technology, New York</h3>
+<h3 align="center">Analytics Engineer @ Wayfair</h3>
+<h3 align="center">Data Science, Analytics, an AI</h3>
 
 [Subscribe to my newsletter - DataStack](https://ritvikchebolu.substack.com)
 
 <p align="left"> <a href="https://twitter.com/ritvikteja" target="blank"><img src="https://img.shields.io/twitter/follow/ritvikteja?logo=twitter&style=for-the-badge" alt="ritvikteja" /></a> </p>
+
+- M.Sc. in Data Science @ Rochester Institute of Technology
 
 - A data geek who completed 2 rounds of #66days of data challenge (initiated by Ken Jee)
 
