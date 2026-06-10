@@ -36,7 +36,6 @@
   <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 </p>
 
-![Ritvik's github stats](https://github-readme-stats.vercel.app/api?username=ritvik-chebolu)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritvik-chebolu&label=Profile%20views&color=0e75b6&style=flat" alt="ritvik-chebolu  
 
